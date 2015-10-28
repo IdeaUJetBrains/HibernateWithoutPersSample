@@ -10,7 +10,7 @@
       <column name="route_id" sqlType="INTEGER" precision="32" scale="0" nullable="false" jdbcType="4"/>
       <column name="name" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
       <column name="number" sqlType="INTEGER" precision="32" scale="0" nullable="true" jdbcType="4"/>
-      <primary-key name="SYS_PK_10117" columns="route_id"/>
+      <primary-key name="SYS_PK_10091" columns="route_id"/>
     </table>
   </data-source>
 </component>
